@@ -15,4 +15,16 @@
 
 <img src="cmp.png">
 
+### Store data in the form of JSON 
+
+<img src="json.png">
+
+## BSON 
+
+### AT mongodb BSON was invented -- this is basically a computer data interchange format ..
+
+<img src="bson.png">
+
+
+
 
