@@ -25,6 +25,10 @@
 
 <img src="bson.png">
 
+## MongoDB architecture 
+
+<img src="mongoarch.png">
+
 
 
 
