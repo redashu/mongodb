@@ -10,3 +10,9 @@
   <li> This was a NewYork based company name 10Gen which now changed as MongoDb Inc. </li>
   <li> IN the beggning Mongodb started as Platform service in Azure Platform in 2007 </li>
 </ol>
+
+## Sql VS Mongodb 
+
+<img src="cmp.png">
+
+
